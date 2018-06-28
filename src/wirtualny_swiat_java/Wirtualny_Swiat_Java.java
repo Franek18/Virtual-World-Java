@@ -30,6 +30,6 @@ public class Wirtualny_Swiat_Java {
 */  
 //    HexWorld world = new HexWorld(10,10);
 //    GridWorld world1 = new GridWorld(10,10);
-    Visualize frame = new Visualize("Franciszek Górski 171876",550,100);
+    Visualize frame = new Visualize("Franciszek Górski",550,100);
     }
 }
